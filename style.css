@@ -5,6 +5,8 @@
 }
 body{
     background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
 }
 main{
     border: 0px solid black;
@@ -29,6 +31,7 @@ main{
     flex-direction: column;
     text-align: center;
     gap: 20px;
+    color: hsl(218, 44%, 22%);
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
